@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "871600403001",
+    "project_id": "funquizzes-3f75f",
+    "storage_bucket": "funquizzes-3f75f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:871600403001:android:d25e344c7aad396b0f53e8",
+        "android_client_info": {
+          "package_name": "com.mobiosdev.funquizzes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "871600403001-mlir84ks8lb8c4lh790a12s5r20vuhhi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlTRCTXqHLMTWVQlYaOGAKcm3uz6j6E3s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "871600403001-mlir84ks8lb8c4lh790a12s5r20vuhhi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
